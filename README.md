@@ -1,3 +1,4 @@
+[![Build Status](https://clt-cd4f8059-e270-4bab-84d3-3eab08b99c0b.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://clt-cd4f8059-e270-4bab-84d3-3eab08b99c0b.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=59&branchName=master)
 
 # Contributing
 
